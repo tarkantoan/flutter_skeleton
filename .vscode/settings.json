@@ -1,0 +1,5 @@
+{
+    "i18n-ally.localesPaths": [
+        "../../../Projects/flutter_skeleton/assets/translations"
+    ]
+}
